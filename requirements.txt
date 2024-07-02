@@ -1,0 +1,6 @@
+Flask
+yt-dlp
+moviepy
+whisper
+torch
+numpy==1.21.6
